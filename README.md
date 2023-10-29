@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines="hihihihiihih")](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Agbalumo&weight=500&size=28&pause=1000&color=6C7797&random=false&width=437&height=69&lines=Slow+and+steady+wins+the+race)](https://git.io/typing-svg)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wjdtj9656)](https://solved.ac/wjdtj9656/)
 
