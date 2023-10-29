@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines="hihihihiihih")](https://git.io/typing-svg)
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wjdtj9656)](https://solved.ac/wjdtj9656/)
 
 <a href="https://opgc.me/#/users/wjdtj9656" target="_blank"><img src="https://api.opgc.me/githubs/users/wjdtj9656/tag/?theme=basic" /></a>
