@@ -6,8 +6,8 @@
 ![Leetcode Stats](https://leetcard.jacoblin.cool/wjdtj9656?width=500&height=200&Center=true) 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wjdtj9656)](https://solved.ac/wjdtj9656)
-<!--<a href="https://opgc.me/#/users/wjdtj9656" target="_blank"><img src="https://api.opgc.me/githubs/users/wjdtj9656/tag/?theme=basic" /></a>
--->
+<a href="https://opgc.me/#/users/wjdtj9656" target="_blank"><img src="https://api.opgc.me/githubs/users/wjdtj9656/tag/?theme=basic" /></a>
+
 
 ---
 
