@@ -8,13 +8,14 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wjdtj9656)](https://solved.ac/wjdtj9656)
 <a href="https://opgc.me/#/users/wjdtj9656" target="_blank"><img src="https://api.opgc.me/githubs/users/wjdtj9656/tag/?theme=basic" /></a>
 
-<a href="https://github.com/devxb/gitanimals">
-<img
-  src="https://render.gitanimals.org/farms/wjdtj9656"
-  width="600"
-  height="300"
-/>
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=wjdtj9656&utm_content=line">
+  <img
+    src="https://render.gitanimals.org/lines/wjdtj9656"
+    width="600"
+    height="120"
+  />
 </a>
+  
 
 ---
 <!--
